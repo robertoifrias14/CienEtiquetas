@@ -3,7 +3,42 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+    <title>Lista de Cien Etiquetas HTML</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f5f5f5;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            background-color: #fff;
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 8px 12px;
+            text-align: left;
+            vertical-align: top;
+        }
+        th {
+            background-color: #f0f0f0;
+        }
+        tr:nth-child(even) {
+            background-color: #fafafa;
+        }
+        code {
+            background-color: #eee;
+            padding: 2px 4px;
+            border-radius: 3px;
+            font-family: monospace;
+        }
+    </style>
 </head>
 <body>
     <h1>Lista de 100 Etiquetas HTML</h1>
@@ -16,7 +51,7 @@
                 <th>Elemento Adicional</th>
             </tr>
         </thead>
-
+        <tbody>
             <!-- Aquí comienza la lista de 100 etiquetas -->
             <tr><td>&lt;a&gt;</td><td>Define un hipervínculo. Se utiliza para enlazar a otra página o recurso.</td><td><code>&lt;a href="https://www.example.com"&gt;Visita Ejemplo&lt;/a&gt;</code></td><td>Se puede usar <code>target="_blank"</code> para abrir en nueva pestaña.</td></tr>
             <tr><td>&lt;p&gt;</td><td>Define un párrafo de texto.</td><td><code>&lt;p&gt;Este es un párrafo.&lt;/p&gt;</code></td><td>Puede contener otros elementos en línea como &lt;a&gt;, &lt;strong&gt;, &lt;em&gt;.</td></tr>
