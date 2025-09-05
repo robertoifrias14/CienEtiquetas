@@ -124,7 +124,7 @@
 <tr><td>&lt;base&gt;</td><td>URL base para enlaces relativos.</td><td><code>&lt;base href="https://ejemplo.com"&gt;</code></td><td>Se coloca en &lt;head&gt;.</td></tr>
 <tr><td>&lt;meta&gt;</td><td>Metadatos de la página.</td><td><code>&lt;meta name="description" content="Página ejemplo"&gt;</code></td><td>SEO y compatibilidad.</td></tr>
 
-        </tbody>
+        
     </table>
 </body>
 </html>
