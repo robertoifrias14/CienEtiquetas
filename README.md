@@ -125,6 +125,6 @@
 <tr><td>&lt;meta&gt;</td><td>Metadatos de la página.</td><td><code>&lt;meta name="description" content="Página ejemplo"&gt;</code></td><td>SEO y compatibilidad.</td></tr>
 
         
-    </table>
+    
 </body>
 </html>
